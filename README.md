@@ -1,4 +1,7 @@
 # django_study
 장고스터디
 
-# 고고
+# vscode settings
+{
+    "python.pythonPath": "c:\\Users\\imcjp\\venv\\twoscoopsofdjango\\Scripts\\python.exe"
+}
