@@ -12,3 +12,7 @@
 
 * [django install](https://doorbw.tistory.com/181 "장고설치가이드")
 * [django install](https://docs.djangoproject.com/ko/3.0/intro/install/ "장고설치가이드")
+
+'''
+2020-02-20 장고설치
+'''
