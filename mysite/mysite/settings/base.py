@@ -19,6 +19,5 @@ TEMPLATES = [
     {
         'BACKEND' : 'jdango.template.backends.django.djangotemplates',
         'DIRS' : (root('temp[lates')) ,
-        )
     }
 ]
